@@ -72,15 +72,22 @@ O código em main.py define um dicionário que armazena as respostas a uma enque
 Faça uma lista de pessoas incluindo alguns nomes que já estão no dicionário e outros que não estão.
 Percorra a lista de pessoas. Se a pessoa já tiver participado da enquete, imprima uma mensagem agradecendo a resposta. Se ainda não participou da enquete, imprima uma mensagem convidando-a para participar.
 
------------------------------------------------------------------------- 12
+------------------------------------------------------------------------
 
+Exercício 12
+Com base no que vocês fizeram para o Exercício 7, façam 3 dicionários representando pessoas diferentes e os armazenem em uma lista chamada ```pessoas```. Percorram a lista de pessoas. Ao percorrer a lista, imprimam todas as informações sobre cada pessoa.
 
------------------------------------------------------------------------- 13
+------------------------------------------------------------------------
 
+Exercício 13
+Faça um dicionário chamado lugares_favoritos. Pense em 3 nomes para usar como chaves no dicionário e armazene uma lista contendo 1 a 3 lugares favoritos para cada pessoa. Percorra o dicionário e imprima o nome de cada pessoa e seus lugares favoritos.
 
------------------------------------------------------------------------- 14
+------------------------------------------------------------------------
 
+Exercício 14
+Modifiquem o programa do Exercício 8 para que cada pessoa possa ter uma lista de números favoritos. Em seguida, imprima o nome de cada pessoa junto com seus números favoritos.
 
------------------------------------------------------------------------- 15
+------------------------------------------------------------------------
 
-
+Exercício 15
+Façam um dicionário chamado ```cidades```. Usem os nomes de três cidades como chaves em seu dicionário. Criem um dicionário de informações sobre cada cidade e inclua o país em que a cidade está, sua população aproximada e um fato sobre essa cidade. As chaves para o dicionário de cada cidade devem ser algo como ```'pais'```, ```'populacao'``` e ```'fato'```. Imprimam o nome de cada cidade e todas as informações que vocês armazenaram sobre ela.
