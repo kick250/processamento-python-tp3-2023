@@ -1,0 +1,86 @@
+TP3 - Python para Processamento de Dados
+
+------------------------------------------------------------------------
+
+Exercício 1
+Pense nos seus sabores de pizza favoritos (pelo menso 3). Armazene esses nomes de pizza em uma lista e use um laço for para imprimir uma frase usando o nome de cada pizza. Para cada pizza você deve ter uma linha de saída contendo uma declaração simples como "Eu gosto de pizza calabresa".
+
+Adicione uma linha no final do seu programa, fora do laço for, que indique o quanto você gosta de pizza. A saída deve consistir em três ou mais linhas sobre os tipos de pizza que você gosta e, em seguida, uma frase adicional, como "Eu amo pizza!".
+
+------------------------------------------------------------------------
+
+Exercício 2
+Use um laço for para imprimir os números de 1 a 20.
+
+------------------------------------------------------------------------
+
+Exercício 3
+Faça uma lista dos números de 1 a 1.000.000 e, em seguida, use um laço for para imprimir os números.
+
+Além disso, use a função sum() para ver a rapidez com que o Python pode somar um milhão de números e imprima o resultado.
+
+------------------------------------------------------------------------
+
+Exercício 4
+Use o 3º argumento da função range() para fazer uma lista dos números ímpares de 1 a 20. Use um laço for para imprimir cada número.
+
+------------------------------------------------------------------------
+
+Exercício 5
+Faça uma lista com os 10 primeiros múltiplos positivos de 3.
+
+Use um laço for com a função enumerate() para imprimir a tabuada de 3 usando os números da lista.
+
+------------------------------------------------------------------------
+
+Exercício 6
+Um número elevado à 3ª potência é chamado de cubo. Por exemplo, o cubo de 2 é escrito como 2**3 em Python.
+
+Faça uma lista dos primeiros 10 cubos (ou seja, o cubo de cada inteiro de 1 a 10) com list comprehension e use um laço for para imprimir os números em sua lista.
+
+------------------------------------------------------------------------
+
+Exercício 7
+Use um dicionário para armazenar informações sobre uma pessoa. Armazene seu primeiro nome, sobrenome, idade e a cidade em que mora. Você deve ter chaves como 'primeiro_nome', 'sobrenome', 'idade' e 'cidade'. Imprima cada informação armazenada em seu dicionário
+
+------------------------------------------------------------------------
+
+Exercício 8
+Use um dicionário para armazenar os números favoritos das pessoas. Pense em cinco nomes e use-os como chaves em seu dicionário. Pense em um número favorito para cada pessoa e armazene cada um como um valor em seu dicionário. Imprima o nome de cada pessoa e seu número favorito.
+
+------------------------------------------------------------------------
+
+Exercício 9
+Um dicionário do Python pode ser usado para modelar um dicionário real. No entanto, para evitar confusão, vamos chamá-lo de glossário.
+
+Pense em cinco termos de programação que você aprendeu até aqui. Use essas palavras como chaves em seu glossário e armazene seus significados como valores.
+Use um laço que percorre as chaves e valores do dicionário.
+Imprima cada palavra e seu significado como uma saída bem formatada. Você pode imprimir a palavra seguida por dois pontos e seu significado, ou imprimir a palavra em uma linha e imprimir seu significado recuado em uma segunda linha. Use uma linha em branco entre cada par de definições em sua saída.
+
+------------------------------------------------------------------------
+
+Exercício 10
+Faça um dicionário contendo três grandes rios e o país pelo qual cada rio passa. Um par valor-chave pode ser 'Nilo': 'Egito'.
+
+Use um laço para imprimir uma frase sobre cada rio, como "O Nilo atravessa o Egito".
+
+------------------------------------------------------------------------
+
+Exercício 11
+O código em main.py define um dicionário que armazena as respostas a uma enquete sobre linguagens de programação favoritas.
+
+Faça uma lista de pessoas incluindo alguns nomes que já estão no dicionário e outros que não estão.
+Percorra a lista de pessoas. Se a pessoa já tiver participado da enquete, imprima uma mensagem agradecendo a resposta. Se ainda não participou da enquete, imprima uma mensagem convidando-a para participar.
+
+------------------------------------------------------------------------ 12
+
+
+------------------------------------------------------------------------ 13
+
+
+------------------------------------------------------------------------ 14
+
+
+------------------------------------------------------------------------ 15
+
+
